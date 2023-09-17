@@ -1,0 +1,14 @@
+/Users/Mirza-/Desktop/Algorithms/bin/Debug/net7.0/Algorithms
+/Users/Mirza-/Desktop/Algorithms/bin/Debug/net7.0/Algorithms.deps.json
+/Users/Mirza-/Desktop/Algorithms/bin/Debug/net7.0/Algorithms.runtimeconfig.json
+/Users/Mirza-/Desktop/Algorithms/bin/Debug/net7.0/Algorithms.dll
+/Users/Mirza-/Desktop/Algorithms/bin/Debug/net7.0/Algorithms.pdb
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.AssemblyInfoInputs.cache
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.AssemblyInfo.cs
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.dll
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/refint/Algorithms.dll
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.pdb
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/Algorithms.genruntimeconfig.cache
+/Users/Mirza-/Desktop/Algorithms/obj/Debug/net7.0/ref/Algorithms.dll
