@@ -10,7 +10,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Enter the number to divide.");
             int number2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(Divide(number1, number2));
+            int sum = Divide(number1, number2);
+            int remainder = Remainder(number1, number2);
+
+            Console.WriteLine($"{number1} / {number2} = {sum} | Remainder: {remainder}");
         }
 
         static int Divide(int number1, int number2)
@@ -23,6 +26,19 @@ namespace MyApp // Note: actual namespace depends on the project name.
             else
             {
                 return 1;
+            }
+        }
+
+        static int Remainder(int number1, int number2)
+        {
+            number1 -= number2;
+            if(number1 >= number2)
+            {
+                return Remainder(number1, number2);
+            }
+            else
+            {
+                return number1; 
             }
         }
     }
