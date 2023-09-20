@@ -1,4 +1,4 @@
-namespace MyApp // Note: actual namespace depends on the project name.
+/*namespace MyApp // Note: actual namespace depends on the project name.
 {
     // Creating an algorithm that uses subtraction to divide positive numbers.
     internal class Solution_7_2
@@ -27,3 +27,4 @@ namespace MyApp // Note: actual namespace depends on the project name.
         }
     }
 }
+*/

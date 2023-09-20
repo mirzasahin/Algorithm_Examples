@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mirza\\.nuget\\packages\\": {}
+    "/Users/Mirza-/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mirza\\Desktop\\Algorithm_Examples\\Algorithms.csproj",
+      "projectUniqueName": "/Users/Mirza-/Desktop/Algorithms/Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\mirza\\Desktop\\Algorithm_Examples\\Algorithms.csproj",
-      "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mirza\\Desktop\\Algorithm_Examples\\obj\\",
+      "projectPath": "/Users/Mirza-/Desktop/Algorithms/Algorithms.csproj",
+      "packagesPath": "/Users/Mirza-/.nuget/packages/",
+      "outputPath": "/Users/Mirza-/Desktop/Algorithms/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/Mirza-/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
