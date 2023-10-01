@@ -7,7 +7,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter your date of birth in the format Day, Month, Year with dots between them.");
+            Console.WriteLine("Lütfen doğum tarihinizi Gün/Ay/Yıl formatında aralarında nokta olacak şekilde giriniz.");
 
             try
             {
