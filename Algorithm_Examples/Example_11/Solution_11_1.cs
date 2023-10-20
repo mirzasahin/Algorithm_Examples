@@ -2,7 +2,7 @@ using System;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
-    // Creating the algorithm where the computer guesses a number and the user tries to find that number.
+    // Creating an algorithm that finds the sum of numbers given as a list.
     internal class Solution_11_1
     {
         static List<int> numbers = new List<int>() {1, 2, 3, 4};
