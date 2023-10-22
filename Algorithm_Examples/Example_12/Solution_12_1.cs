@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
-    //
+    // Writing an algorithm to compare the scores of both players in their competitions.
     internal class Solution_12_1
     {
         static List<int> alice = new List<int>() { 4, 2, 9, 12 };
